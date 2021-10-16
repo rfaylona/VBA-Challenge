@@ -2,9 +2,9 @@
 
 # StockMarket Analysis
 
-This VBA Script/macro will enable you to summarize the stock market data when enabled
+This VBA Script/macro will enable you to summarize the stock market data when enabled on all the worksheets on the wsorkbook
 
-  * It will create 2 summary tables
+  * It will create 2 summary tables for each worksheet
     
     - 1st table will do the following:
       * Will suymmarize the ticker's total data
